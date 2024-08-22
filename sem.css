@@ -1,4 +1,4 @@
-.two{
+.two {
     background-color: rgb(59, 3, 59);
     padding: auto;
     text-align: center;
@@ -9,7 +9,8 @@
     margin-top: 5%;
     color: aliceblue;
 }
-.three{
+
+.three {
     background-color: rgb(157, 187, 226);
     padding-top: 2%;
     margin-left: 30%;
@@ -17,6 +18,7 @@
     text-align: center;
     -ms-flex-align: center;
 }
-.four{
+
+.four {
     text-align: center;
 }
